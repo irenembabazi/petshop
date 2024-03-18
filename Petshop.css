@@ -1,0 +1,117 @@
+*{
+    color: white;
+}
+body{
+    background-color: black;
+}
+.links{
+    color: white;
+    background-color: black;
+    
+
+}
+a{
+    margin-right: 40px;
+    color: white;
+    align-items: center;
+    padding-left: 120px;
+    text-decoration: none;
+}
+.upper-section{
+    
+    position: absolute;
+    width: 100%;
+    top: 300px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+     
+     
+    
+}
+h1{
+    color: orange;
+    font-size: 60px;
+    font-style: normal;
+}
+.view-btn{
+    background-color: chocolate;
+    padding: 10px 30px 10px 20px;
+    border-radius: 10px;
+    border-radius: none;
+}
+
+.p1{
+    align-items: center;
+}
+.h2{
+    color: orange;
+    text-align: center;
+    margin-bottom: 0%;
+    
+}
+.p2{
+    font-size: 20px
+    
+
+}
+.p3{
+    font-size:20px ;
+    
+}
+.images{
+    display: flex;
+    flex-direction: row;
+    width: 100vw;
+    background-color: black;
+    gap: 4%;
+    align-items: center;
+    border: 10px;
+
+}
+.last{
+    position: relative;
+}
+.last > img{
+    width: 100%;
+    
+}
+.p{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    background-color: rgba(12, 12, 12, 0.377);
+    color:chocolate;
+}
+button{
+    color: black;
+    background-color: chocolate;
+    height: 50px;
+    border-radius: 10px;
+}
+[type="submit"]{
+    background-color: chocolate;
+    border-radius: 10px;
+    height: 50px;
+    width: 100px;
+
+}
+h4{
+    font-style: normal;
+    font-size: xx-large;
+    width: 200px 
+    height: 50px;
+}
+.u{
+    text-align: center;
+}
+
+.bunnies{
+    border: 10px solid orange;
+}
+input{
+    height: 50px;
+    width: 300px;
+    border-radius: 10px;
+}
